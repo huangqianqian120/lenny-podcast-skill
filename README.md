@@ -1,10 +1,10 @@
 # lenny-podcast-skill
 
-基于 **Lenny's Podcast** 播客转录文稿提炼的产品管理方法论导师。
+基于 **Lenny's Podcast** 播客转录文稿提炼的方法论 skill 。
 
 ## 什么是 Lenny's Podcast
 
-[Lenny's Podcast](https://www.youtube.com/@LennysPodcast) 是产品管理领域的知名播客，邀请世界顶级产品领袖分享实战经验。每期节目嘉宾包括：
+[Lenny's Podcast](https://www.youtube.com/@LennysPodcast) 是科技/产品管理领域的知名播客，邀请世界顶级产品领袖分享实战经验。每期节目嘉宾包括：
 
 - Sean Ellis（Growth Hacking 术语发明者）
 - Marty Cagan（《INSPIRED》《EMPOWERED》作者）
