@@ -14,7 +14,7 @@
 - Ben Horowitz（a16z 创始人）
 - ...以及更多顶级公司的产品领袖
 
-## 什么是这个 Skill
+## 关于这个 Skill
 
 这是一个 **苏格拉底式导师 Skill**——不是直接给答案，而是通过多轮对话了解你的具体情况后，再匹配最相关的方法论。
 
@@ -41,7 +41,7 @@ Skill 会根据你的问题，通过 2-3 轮追问了解具体情况，再给出
 
 ## 使用方式
 
-在 Claude Code 中输入：
+在 Claude Code 或其他Agent 中输入：
 
 ```
 lenny 我的留存很差怎么办
@@ -63,23 +63,15 @@ lenny 团队协作有问题
 
 ## 数据来源
 
-- [Lenny's Podcast 转录存档](https://github.com/nickshanks/lennys-podcast-transcripts)（269 期节目）
-- 本地数据源：`~/Desktop/lennys-podcast-transcripts-main/`
+- Lenny's Podcast 转录存档（269 期节目）
 
 ## 安装
 
-将 `SKILL.md` 放到 Claude Code 的 Skill 目录：
+将 `SKILL.md` 放到 Agent 的 Skill 目录：
 
 ```bash
 mkdir -p ~/.claude/skills/lenny-podcast-skill
-cp SKILL.md ~/.claude/skills/lenny-podcast-skill/
 ```
-
-## 相关资源
-
-- [Lenny's Podcast YouTube](https://www.youtube.com/@LennysPodcast)
-- [Lenny's Newsletter](https://www.lennysnewsletter.com/)
-- [Lenny's Twitter](https://twitter.com/lennysan)
 
 ## 许可
 
